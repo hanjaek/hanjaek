@@ -3,7 +3,7 @@
 </div>
 
 
-![HanJae's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kimhanjae7&theme=react&bg_color=15253e&color=FFFFFF&line=6EC6FF&point=A0E9FF&area=true)
+![HanJae's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kimhanjae7&theme=react&bg_color=1e3a5f&color=FFFFFF&line=6EC6FF&point=A0E9FF&area=true)
 
 
 
