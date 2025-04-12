@@ -7,7 +7,7 @@
   <table>
     <tr>
       <td><br>
-        <img src="https://github-readme-stats.vercel.app/api?username=hanjaek&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=87a5d4&bg_color=15253e&border_color=4574bf" /><br>
+        <img src="https://github-readme-stats.vercel.app/api?username=hanjaek&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=87a5d4&bg_color697484&border_color=4574bf" /><br>
       </td>
       <td rowspan="2"><br>
         <img src="http://mazandi.herokuapp.com/api?handle=hjk2512&theme=cold" /><br>
