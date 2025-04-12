@@ -12,9 +12,6 @@
       <td rowspan="2">
         <img src="http://mazandi.herokuapp.com/api?handle=hjk2512&theme=cold" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanjaek&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=15253e&border_color=4574bf" />
-      </td>
     </tr>
   </table>
 </div>
