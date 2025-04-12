@@ -6,9 +6,7 @@
 
 <div align="center">
   <img src="http://mazandi.herokuapp.com/api?handle=hjk2512&theme=cold" />
-</div>
-
-
+</div><br><br>
 
 ![HanJae's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanjaek&theme=react&bg_color=697484&color=FFFFFF&line=87a5d4&point=87a5d4&area=true)
 
