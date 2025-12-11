@@ -16,7 +16,12 @@
           <img src="https://streak-stats.demolab.com/?user=hanjaek&theme=dark" /><br><br>
         </td>
         -->
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hanjaek&theme=github_dark" />
+        <td>
+        <img 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hanjaek&theme=github_dark"
+          style="border-radius: 10px;"
+        />
+      </td>
       <td rowspan="2">
         <img src="https://mazandi.herokuapp.com/api?handle=hjk2512&theme=cold" /><br>
       </td>
