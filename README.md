@@ -12,9 +12,7 @@
       </td>
         -->
         <td><br>
-          <img 
-            src="https://streak-stats.demolab.com?user=hanjaek&theme=dark&background=15253e&ring=87a5d4&fire=87a5d4&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff"
-          /><br><br>
+          <img src="https://streak-stats.demolab.com/?user=hanjaek&theme=dark" /><br><br>
         </td>
       <td rowspan="2">
         <img src="https://mazandi.herokuapp.com/api?handle=hjk2512&theme=cold" /><br>
