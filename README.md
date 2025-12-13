@@ -1,22 +1,24 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4574bf,100:15253e&height=240&text=HanJae's%20Github&animation=&fontColor=ffffff&fontSize=40" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4574bf,100:15253e&height=240&text=HanJae's%20Github&animation=&fontColor=ffffff&fontSize=40" />
 </div>
-
 
 <div align="center">
   <table>
     <tr>
+
       <td><br>
-          <img src="https://streak-stats.demolab.com?
-              user=hanjaek&background=15253e&border=4574bf&ring=87a5d4&fire=87a5d4&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
-          <br><br>
+        <img src="https://streak-stats.demolab.com?user=hanjaek&background=15253e&border=4574bf&ring=87a5d4&fire=87a5d4&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
+        <br><br>
       </td>
 
       <td rowspan="2">
         <img src="https://mazandi.herokuapp.com/api?handle=hjk2512&theme=cold" /><br>
       </td>
+
     </tr>
   </table>
-</div><br>
+</div>
+
+<br>
 
 ![HanJae's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanjaek&theme=react&bg_color=697484&color=FFFFFF&line=87a5d4&point=87a5d4&area=true)
