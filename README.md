@@ -6,8 +6,8 @@
   <img
     src="https://streak-stats.demolab.com?user=hanjaek&background=15253e&border=4574bf&ring=87a5d4&fire=87a5d4&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"
     height="170"
-    style="margin-right:16px;"
   />
+  <img src="https://via.placeholder.com/16x1/00000000"/>
   <img
     src="https://mazandi.herokuapp.com/api?handle=hjk2512&theme=cold"
     height="170"
