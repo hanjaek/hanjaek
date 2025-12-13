@@ -3,8 +3,15 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hanjaek&background=15253e&border=4574bf&ring=87a5d4&fire=87a5d4&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
-  <img src="https://mazandi.herokuapp.com/api?handle=hjk2512&theme=cold" height="170" />
+  <img
+    src="https://streak-stats.demolab.com?user=hanjaek&background=1c2f4a&border=4574bf&ring=87a5d4&fire=87a5d4&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"
+    height="170"
+    style="margin-right:16px;"
+  />
+  <img
+    src="https://mazandi.herokuapp.com/api?handle=hjk2512&theme=cold"
+    height="170"
+  />
 </div>
 
 <br>
