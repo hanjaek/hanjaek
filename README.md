@@ -141,6 +141,73 @@ and focus on building practical solutions by applying new technologies and optim
 
 <br>
 
+## Awards
+
+<table>
+<tr>
+<th>Award</th>
+<th>Organizer</th>
+<th>Date</th>
+<th>Result</th>
+</tr>
+
+<tr>
+<td>진로 또래 멘토링</td>
+<td>동아대학교 진로개발센터</td>
+<td>2026.01</td>
+<td>베스트커플상</td>
+</tr>
+
+<tr>
+<td>부산 지역문제 해결 B.SORI 경진대회</td>
+<td>RISE 사업단</td>
+<td>2025.12</td>
+<td>최우수상</td>
+</tr>
+
+<tr>
+<td>동아 해커톤</td>
+<td>동아대학교 소프트웨어혁신센터</td>
+<td>2025.12</td>
+<td>장려상</td>
+</tr>
+
+<tr>
+<td>의료 AI·SW 융합 해커톤</td>
+<td>동아대학교 소프트웨어혁신센터</td>
+<td>2025.08</td>
+<td>최우수상</td>
+</tr>
+
+<tr>
+<td>커리어 포트폴리오 경진대회</td>
+<td>동아대학교 진로개발센터</td>
+<td>2025.08</td>
+<td>최우수상</td>
+</tr>
+
+<tr>
+<td>춘계학술발표대회</td>
+<td>한국멀티미디어학회</td>
+<td>2025.05</td>
+<td>우수발표상</td>
+</tr>
+
+<tr>
+<td>부산 지역문제 해결 해커톤</td>
+<td>국립부경대학교 소프트웨어혁신원</td>
+<td>2025.02</td>
+<td>대상</td>
+</tr>
+
+</table>
+
+<br>
+
+---
+
+<br>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hanjaek&theme=dark&background=15253e&border=4574bf&ring=87a5d4&fire=87a5d4&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&card_height=170&card_width=450" 
   />
