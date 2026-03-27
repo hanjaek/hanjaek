@@ -109,8 +109,8 @@ and focus on building practical solutions by applying new technologies and optim
 <td>진로 또래 멘토링<br>(2025.09 ~ 2026.01)</td>
 <td>학과 후배 대상 진로 설계 및 학습 방향 멘토링</td>
 <td>
-50명 중 10명 <b>우수 멘토 선정</b><br>
-<b>대표 1인</b> 성과 공유 발표
+- 50명 중 10명 <b>우수 멘토 선정</b><br>
+- <b>대표 1인</b> 성과 공유 발표
 </td>
 </tr>
 
@@ -125,11 +125,11 @@ and focus on building practical solutions by applying new technologies and optim
 <tr>
 <td><a href="https://github.com/hanjaek/Reinforcement_Learning">RAILab 학부연구생</a><br>(2024.12 ~ 2025.06)</td>
 <td>
-강화학습 이론 학습 및 연구 수행<br>
-Human-in-the-Loop 구조 설계 및 실험
+- 강화학습 이론 학습 및 연구 수행<br>
+- Human-in-the-Loop 구조 설계 및 실험
 </td>
 <td>
-한국멀티미디어학회 우수발표상 수상
+한국멀티미디어학회 **우수발표상 수상**
 </td>
 </tr>
 
