@@ -12,7 +12,8 @@ and focus on building practical solutions by applying new technologies and optim
 <br>
 </div>
 
-<hr style="border: 1px solid #444;">
+---
+
 <br>
 
 ## Profile
@@ -24,7 +25,9 @@ and focus on building practical solutions by applying new technologies and optim
 - 요구사항 분석부터 설계, 검증까지 이어지는 문제 해결 과정을 중요하게 생각합니다.
 
 <br>
-<hr style="border: 1px solid #444;">
+
+---
+
 <br>
 
 ## Projects
@@ -51,7 +54,7 @@ and focus on building practical solutions by applying new technologies and optim
 
 <br>
 
-<hr style="border: none; height: 1px; background-color: #444;">
+---
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hanjaek&theme=dark&background=15253e&border=4574bf&ring=87a5d4&fire=87a5d4&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&card_height=170&card_width=450" 
