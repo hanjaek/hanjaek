@@ -1,6 +1,6 @@
 <div align="center">
 
-## Software Engineer
+### Software Engineer
 # HanJae Kim
 
 I enjoy analyzing and solving real-world problems across various domains.  
