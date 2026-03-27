@@ -89,6 +89,7 @@ and focus on building practical solutions by applying new technologies and optim
 #### Achievements
 - 교과목 우수 프로젝트 3팀 선정
 - 지도교수 추천으로 DevConf24 컨퍼런스 참가
+## 
 
 ---
 
