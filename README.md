@@ -32,6 +32,8 @@ and focus on building practical solutions by applying new technologies and optim
 ### [DeepGPR-3D](https://github.com/hanjaek/DeepGPR-3D) (2025.09 ~ 2025.12)
 > 싱크홀 분석 자동화 및 시민 대상 위험 지역 지도 제공 시스템
 
+<br>
+
 #### Key Contributions
 - GPR 데이터를 활용한 지반 공동(cavity) segmentation 모델 개발
 - BCE + Dice Loss 적용을 통해 Dice +14%, IoU +11% 성능 개선
