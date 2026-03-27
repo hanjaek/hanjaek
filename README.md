@@ -8,6 +8,8 @@ I enjoy analyzing and solving real-world problems across various domains.
 
 I focus on building practical solutions by applying new technologies and optimizing systems.
 <br>
+<br>
+
 
 </div>
 
