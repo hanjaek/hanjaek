@@ -4,9 +4,10 @@
 # HanJae Kim
 
 <br>
-I enjoy analyzing and solving real-world problems across various domains. 
 
-I focus on building practical solutions by applying new technologies and optimizing systems.
+I enjoy analyzing and solving real-world problems across various domains,  
+and focus on building practical solutions by applying new technologies and optimizing systems.
+
 <br>
 <br>
 </div>
@@ -26,7 +27,20 @@ I focus on building practical solutions by applying new technologies and optimiz
 <hr style="border: 1px solid #444;">
 <br>
 
+## Projects
 
+### [DeepGPR-3D](https://github.com/hanjaek/DeepGPR-3D) (2025.09 ~ 2025.12)
+> 싱크홀 분석 자동화 및 시민 대상 위험 지역 지도 제공 시스템
+
+#### Key Contributions
+- GPR 데이터를 활용한 지반 공동(cavity) segmentation 모델 개발
+- BCE + Dice Loss 적용을 통해 Dice +14%, IoU +11% 성능 개선
+- SDT 기반 지반 공동 구조 3D 복원 구현
+- React/Vite 기반 시민 대상 싱크홀 위험 구간 지도 프로토타입 구현
+
+#### Achievements
+- 분석 작업 자동화: 분석 시간 90% 이상 단축
+- 부산 지역문제 B.SORI 경진대회 최우수상 수상
 
 <hr style="border: 1px solid #444;">
 
