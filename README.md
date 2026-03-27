@@ -100,47 +100,39 @@ and focus on building practical solutions by applying new technologies and optim
 
 <table>
 <tr>
-
-<td width="33%">
-
-### 진로또래멘토링 (2025.09 ~ 2026.01)
-
-**Contributions**
-- 학과 후배 대상 진로 설계 및 학습 방향 멘토링  
-
-**Achievements**
-- 50명 중 10명 **우수 멘토 선정**  
-- **대표 1인**으로 성과 공유 발표 진행  
-
-</td>
-
-<td width="33%">
-
-### 컴퓨팅사고와 SW활용 멘토링 (2025.03 ~ 2025.12)
-
-**Contributions**
-- Python 기초 및 문제 해결 학습 지도  
-
-**Achievements**
-- 학습 참여 유도를 통해 교과목 **출석률 95% 달성**  
-
-</td>
-
-<td width="33%">
-
-### <a href="https://github.com/hanjaek/Reinforcement_Learning">강화학습 연구실 RAILab 학부연구생</a> (2024.12 ~ 2025.06)
-
-**Contributions**
-- 강화학습 이론 및 관련 논문 학습을 통해 연구 주제 이해  
-- 주기적인 랩미팅을 통해 연구 방향 논의 및 실험 결과 공유  
-- Human-in-the-Loop 기반 강화학습 구조 설계 및 실험 수행  
-
-**Achievements**
-- 한국멀티미디어학회 학술대회 우수발표상 수상  
-
-</td>
-
+<th>Activity</th>
+<th>Contributions</th>
+<th>Achievements</th>
 </tr>
+
+<tr>
+<td>진로 또래 멘토링<br>(2025.09 ~ 2026.01)</td>
+<td>학과 후배 대상 진로 설계 및 학습 방향 멘토링</td>
+<td>
+50명 중 10명 <b>우수 멘토 선정</b><br>
+<b>대표 1인</b> 성과 공유 발표
+</td>
+</tr>
+
+<tr>
+<td>컴퓨팅사고와 SW활용 멘토링<br>(2025.03 ~ 2025.12)</td>
+<td>Python 기초 및 문제 해결 학습 지도</td>
+<td>
+교과목 <b>출석률 95% 달성</b>
+</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/hanjaek/Reinforcement_Learning">RAILab 학부연구생</a><br>(2024.12 ~ 2025.06)</td>
+<td>
+강화학습 이론 학습 및 연구 수행<br>
+Human-in-the-Loop 구조 설계 및 실험
+</td>
+<td>
+한국멀티미디어학회 우수발표상 수상
+</td>
+</tr>
+
 </table>
 
 <br>
