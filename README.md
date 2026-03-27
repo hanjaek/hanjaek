@@ -12,6 +12,7 @@ I focus on building practical solutions by applying new technologies and optimiz
 </div>
 
 <hr style="border: 1px solid #444;">
+<br>
 
 ## Profile
 
