@@ -13,8 +13,6 @@ I focus on building practical solutions by applying new technologies and optimiz
 
 <hr style="border: 1px solid #444;">
 
-<br>
-
 ## Profile
 
 - 스스로 할 일을 찾아가는 것을 중요하게 생각하며, 문제를 발견하는 순간 깊이 몰입하는 편입니다.
