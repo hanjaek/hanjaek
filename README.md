@@ -129,7 +129,7 @@ and focus on building practical solutions by applying new technologies and optim
 - Human-in-the-Loop 구조 설계 및 실험
 </td>
 <td>
-한국멀티미디어학회 **우수발표상 수상**
+한국멀티미디어학회 <b>우수발표상 수상</b>
 </td>
 </tr>
 
