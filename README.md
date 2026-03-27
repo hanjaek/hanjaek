@@ -69,10 +69,27 @@ and focus on building practical solutions by applying new technologies and optim
 #### Achievements
 - 앱 스토어 및 플레이스토어 배포를 통한 서비스 출시
 - 사용자 피드백을 반영한 기능 개선으로 서비스 완성도 향상
-
 ## 　
 
----
+### [Project Master](https://github.com/hanjaek/Project_Master) (2024.05 ~ 2024.07)
+> 역할 기반 평점 관리 및 프로젝트 매칭 플랫폼 개발
+
+#### Tech Stack
+![HTML](https://img.shields.io/badge/HTML-f5f5f5?style=flat)
+![CSS](https://img.shields.io/badge/CSS-f5f5f5?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-f5f5f5?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-f5f5f5?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-f5f5f5?style=flat)
+
+#### Key Contributions
+- UI/UX 설계 및 구현
+- 백엔드 데이터 연동을 고려한 데이터 흐름 설계 및 기능 구현
+- 레이아웃·색상·간격 기준을 정의한 스타일 가이드
+- 사용자 평가 데이터를 시각화하여 인터랙션 기능 구현
+
+#### Achievements
+- 교과목 우수 프로젝트 3팀 선정
+- 지도교수 추천으로 DevConf24 컨퍼런스 참가
 
 ---
 
