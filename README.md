@@ -159,7 +159,7 @@ and focus on building practical solutions by applying new technologies and optim
 </tr>
 
 <tr>
-<td>부산 지역문제 해결 B.SORI 경진대회</td>
+<td><a href="https://github.com/hanjaek/DeepGPR-3D">부산 지역문제 해결 B.SORI 경진대회</a></td>
 <td>RISE 사업단</td>
 <td>2025.12</td>
 <td>최우수상</td>
@@ -173,7 +173,7 @@ and focus on building practical solutions by applying new technologies and optim
 </tr>
 
 <tr>
-<td>의료 AI·SW 융합 해커톤</td>
+<td><a href="https://github.com/hanjaek/MIMIC-IV_Data_Prep">의료 AI·SW 융합 해커톤</a></td>
 <td>동아대학교 소프트웨어혁신센터</td>
 <td>2025.08</td>
 <td>최우수상</td>
@@ -187,7 +187,7 @@ and focus on building practical solutions by applying new technologies and optim
 </tr>
 
 <tr>
-<td>춘계학술발표대회</td>
+<td><a href="https://github.com/hanjaek/SAC-HIL-in-CarRacing-v3">춘계학술발표대회</a></td>
 <td>한국멀티미디어학회</td>
 <td>2025.05</td>
 <td>우수발표상</td>
