@@ -89,7 +89,6 @@ and focus on building practical solutions by applying new technologies and optim
 #### Achievements
 - 교과목 우수 프로젝트 3팀 선정
 - 지도교수 추천으로 **DevConf24 컨퍼런스 참가**
-## 
 
 <br>
 
@@ -107,9 +106,7 @@ and focus on building practical solutions by applying new technologies and optim
 #### Achievements
 - 50명 중 10명 **우수 멘토 선정**
 - **대표 1인**으로 성과 공유 발표 진행
-
-<br>
-<br>
+## 　
 
 ### 컴퓨팅사고와 SW활용 멘토링 (2025.03 ~ 2025.12)
 
@@ -118,9 +115,7 @@ and focus on building practical solutions by applying new technologies and optim
 
 #### Achievements
 - 학습 참여 유도를 통해 교과목 **출석률 95% 달성**
-
-<br>
-<br>
+## 　
 
 ### [강화학습 연구실 RAILab 학부연구생](https://github.com/hanjaek/Reinforcement_Learning) (2024.12 ~ 2025.06)
 
@@ -131,11 +126,12 @@ and focus on building practical solutions by applying new technologies and optim
 
 #### Achievements
 - 한국멀티미디어학회 학술대회 우수발표상 수상
-## 
 
 <br>
 
 ---
+
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hanjaek&theme=dark&background=15253e&border=4574bf&ring=87a5d4&fire=87a5d4&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&card_height=170&card_width=450" 
