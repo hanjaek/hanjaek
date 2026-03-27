@@ -1,12 +1,12 @@
 <div align="center">
 
-### Software Engineer
-# HanJae Kim
+<h3>Software Engineer</h3>
+<h1>HanJae Kim</h1>
 
-I enjoy analyzing and solving real-world problems across various domains.  
+<p>
+I enjoy analyzing and solving real-world problems across various domains.<br>
 I am passionate about learning new technologies and applying them to practical solutions.
-
-</div>
+</p>
 
 <hr style="border: 1px solid #444;">
 
