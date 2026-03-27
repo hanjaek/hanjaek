@@ -32,8 +32,6 @@ and focus on building practical solutions by applying new technologies and optim
 ### [DeepGPR-3D](https://github.com/hanjaek/DeepGPR-3D) (2025.09 ~ 2025.12)
 > 싱크홀 분석 자동화 및 시민 대상 위험 지역 지도 제공 시스템
 
-<br>
-
 #### Tech Stack
 ![Python](https://img.shields.io/badge/Python-f5f5f5?style=flat)
 ![PyTorch](https://img.shields.io/badge/PyTorch-f5f5f5?style=flat)
