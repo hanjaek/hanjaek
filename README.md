@@ -98,34 +98,50 @@ and focus on building practical solutions by applying new technologies and optim
 
 ## Activities
 
+<table>
+<tr>
+
+<td width="33%">
+
 ### 진로또래멘토링 (2025.09 ~ 2026.01)
 
-#### Contributions
-- 학과 후배 대상 진로 설계 및 학습 방향 멘토링
+**Contributions**
+- 학과 후배 대상 진로 설계 및 학습 방향 멘토링  
 
-#### Achievements
-- 50명 중 10명 **우수 멘토 선정**
-- **대표 1인**으로 성과 공유 발표 진행
-## 　
+**Achievements**
+- 50명 중 10명 **우수 멘토 선정**  
+- **대표 1인**으로 성과 공유 발표 진행  
+
+</td>
+
+<td width="33%">
 
 ### 컴퓨팅사고와 SW활용 멘토링 (2025.03 ~ 2025.12)
 
-#### Contributions
-- Python 기초 및 문제 해결 학습 지도
+**Contributions**
+- Python 기초 및 문제 해결 학습 지도  
 
-#### Achievements
-- 학습 참여 유도를 통해 교과목 **출석률 95% 달성**
-## 　
+**Achievements**
+- 학습 참여 유도를 통해 교과목 **출석률 95% 달성**  
 
-### [강화학습 연구실 RAILab 학부연구생](https://github.com/hanjaek/Reinforcement_Learning) (2024.12 ~ 2025.06)
+</td>
 
-#### Contributions
-- 강화학습 이론 및 관련 논문 학습을 통해 연구 주제 이해
-- 주기적인 랩미팅을 통해 연구 방향 논의 및 실험 결과 공유
-- Human-in-the-Loop 기반 강화학습 구조 설계 및 실험 수행
+<td width="33%">
 
-#### Achievements
-- 한국멀티미디어학회 학술대회 우수발표상 수상
+### <a href="https://github.com/hanjaek/Reinforcement_Learning">강화학습 연구실 RAILab 학부연구생</a> (2024.12 ~ 2025.06)
+
+**Contributions**
+- 강화학습 이론 및 관련 논문 학습을 통해 연구 주제 이해  
+- 주기적인 랩미팅을 통해 연구 방향 논의 및 실험 결과 공유  
+- Human-in-the-Loop 기반 강화학습 구조 설계 및 실험 수행  
+
+**Achievements**
+- 한국멀티미디어학회 학술대회 우수발표상 수상  
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
