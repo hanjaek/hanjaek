@@ -54,7 +54,7 @@ and focus on building practical solutions by applying new technologies and optim
 
 <br>
 
-<hr style="border: none; height: 1px; background-color: #e0e0e0;">
+## 　
 
 ---
 
