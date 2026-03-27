@@ -51,7 +51,6 @@ and focus on building practical solutions by applying new technologies and optim
 #### Achievements
 - 분석 작업 자동화: **분석 시간 90% 이상 단축**
 - 부산 지역문제 B.SORI 경진대회 **최우수상** 수상
-
 ## 　
 
 ---
