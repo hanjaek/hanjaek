@@ -84,7 +84,6 @@ and focus on building practical solutions by applying new technologies and optim
 #### Key Contributions
 - UI/UX 설계 및 구현
 - 백엔드 데이터 연동을 고려한 데이터 흐름 설계 및 기능 구현
-- 레이아웃·색상·간격 기준을 정의한 스타일 가이드
 - 사용자 평가 데이터를 시각화하여 인터랙션 기능 구현
 
 #### Achievements
