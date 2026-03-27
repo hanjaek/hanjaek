@@ -51,7 +51,28 @@ and focus on building practical solutions by applying new technologies and optim
 #### Achievements
 - 분석 작업 자동화: **분석 시간 90% 이상 단축**
 - 부산 지역문제 B.SORI 경진대회 **최우수상** 수상
+## 
+
+### 올타 - Focus Timer App (Private) (2024.11 ~ 2025.11)
+> 집중력 향상을 위한 타이머 앱 서비스 개발 및 운영
+
+#### Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-f5f5f5?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-f5f5f5?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-f5f5f5?style=flat)
+
+#### Key Contributions
+- Flutter 기반 반응형 UI/UX 설계 및 구현
+- 타이머 리셋 반복 시 발생하는 데이터 중복 저장 문제 해결
+- 유효성 검증 및 예외 처리 로직 적용으로 서비스 안정성 개선
+
+#### Achievements
+- 앱 스토어 및 플레이스토어 배포를 통한 서비스 출시
+- 사용자 피드백을 반영한 기능 개선으로 서비스 완성도 향상
+
 ## 　
+
+---
 
 ---
 
