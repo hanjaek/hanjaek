@@ -211,29 +211,29 @@ and focus on building practical solutions by applying new technologies and optim
 ## Tech Stack
 
 **Programming**  
-![C](https://img.shields.io/badge/C-f5f5f5?style=flat)
-![C++](https://img.shields.io/badge/C++-f5f5f5?style=flat)
-![Python](https://img.shields.io/badge/Python-f5f5f5?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-f5f5f5?style=flat)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **AI / Data**  
-![PyTorch](https://img.shields.io/badge/PyTorch-f5f5f5?style=flat)
-![NumPy](https://img.shields.io/badge/NumPy-f5f5f5?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 **Backend / System**  
-![Node.js](https://img.shields.io/badge/Node.js-f5f5f5?style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-f5f5f5?style=flat)
-![Linux](https://img.shields.io/badge/Linux-f5f5f5?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Frontend / App**  
-![Flutter](https://img.shields.io/badge/Flutter-f5f5f5?style=flat)
-![React](https://img.shields.io/badge/React-f5f5f5?style=flat)
-![HTML](https://img.shields.io/badge/HTML-f5f5f5?style=flat)
-![CSS](https://img.shields.io/badge/CSS-f5f5f5?style=flat)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Collaboration**  
-![GitHub](https://img.shields.io/badge/GitHub-f5f5f5?style=flat)
-![Jira](https://img.shields.io/badge/Jira-f5f5f5?style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 <br>
 
