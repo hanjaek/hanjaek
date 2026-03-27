@@ -49,8 +49,8 @@ and focus on building practical solutions by applying new technologies and optim
 - React/Vite 기반 시민 대상 싱크홀 위험 구간 지도 프로토타입 구현
 
 #### Achievements
-- 분석 작업 자동화: 분석 시간 90% 이상 단축
-- 부산 지역문제 B.SORI 경진대회 최우수상 수상
+- 분석 작업 자동화: **분석 시간 90% 이상 단축**
+- 부산 지역문제 B.SORI 경진대회 **최우수상** 수상
 
 <br>
 
