@@ -53,7 +53,7 @@ and focus on building practical solutions by applying new technologies and optim
 
 ---
 
-<hr style="border: 1px solid #444;">
+<hr style="border: 1px solid #222;">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hanjaek&theme=dark&background=15253e&border=4574bf&ring=87a5d4&fire=87a5d4&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&card_height=170&card_width=450" 
