@@ -34,6 +34,13 @@ and focus on building practical solutions by applying new technologies and optim
 
 <br>
 
+#### Tech Stack
+![Python](https://img.shields.io/badge/Python-lightgrey?style=flat&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-lightgrey?style=flat&logo=pytorch)
+![NumPy](https://img.shields.io/badge/NumPy-lightgrey?style=flat&logo=numpy)
+![React](https://img.shields.io/badge/React-lightgrey?style=flat&logo=react)
+![Vite](https://img.shields.io/badge/Vite-lightgrey?style=flat&logo=vite)
+
 #### Key Contributions
 - GPR 데이터를 활용한 지반 공동(cavity) segmentation 모델 개발
 - BCE + Dice Loss 적용을 통해 Dice +14%, IoU +11% 성능 개선
