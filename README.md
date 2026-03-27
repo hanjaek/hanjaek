@@ -53,7 +53,7 @@ and focus on building practical solutions by applying new technologies and optim
 - 부산 지역문제 B.SORI 경진대회 **최우수상** 수상
 ## 
 
-### 올타 - Focus Timer App (Private) (2024.11 ~ 2025.11)
+### 올타 (Private) (2024.11 ~ 2025.11)
 > 집중력 향상을 위한 타이머 앱 서비스 개발 및 운영
 
 #### Tech Stack
