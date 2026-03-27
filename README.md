@@ -208,6 +208,39 @@ and focus on building practical solutions by applying new technologies and optim
 
 <br>
 
+## Tech Stack
+
+**Programming**  
+![C](https://img.shields.io/badge/C-f5f5f5?style=flat)
+![C++](https://img.shields.io/badge/C++-f5f5f5?style=flat)
+![Python](https://img.shields.io/badge/Python-f5f5f5?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-f5f5f5?style=flat)
+
+**AI / Data**  
+![PyTorch](https://img.shields.io/badge/PyTorch-f5f5f5?style=flat)
+![NumPy](https://img.shields.io/badge/NumPy-f5f5f5?style=flat)
+
+**Backend / System**  
+![Node.js](https://img.shields.io/badge/Node.js-f5f5f5?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-f5f5f5?style=flat)
+![Linux](https://img.shields.io/badge/Linux-f5f5f5?style=flat)
+
+**Frontend / App**  
+![Flutter](https://img.shields.io/badge/Flutter-f5f5f5?style=flat)
+![React](https://img.shields.io/badge/React-f5f5f5?style=flat)
+![HTML](https://img.shields.io/badge/HTML-f5f5f5?style=flat)
+![CSS](https://img.shields.io/badge/CSS-f5f5f5?style=flat)
+
+**Collaboration**  
+![GitHub](https://img.shields.io/badge/GitHub-f5f5f5?style=flat)
+![Jira](https://img.shields.io/badge/Jira-f5f5f5?style=flat)
+
+<br>
+
+---
+
+<br>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hanjaek&theme=dark&background=15253e&border=4574bf&ring=87a5d4&fire=87a5d4&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&card_height=170&card_width=450" 
   />
