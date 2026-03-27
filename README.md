@@ -67,8 +67,8 @@ and focus on building practical solutions by applying new technologies and optim
 - 유효성 검증 및 예외 처리 로직 적용으로 서비스 안정성 개선
 
 #### Achievements
-- 앱 스토어 및 플레이스토어 배포를 통한 서비스 출시
-- 사용자 피드백을 반영한 기능 개선으로 서비스 완성도 향상
+- 앱 스토어 및 플레이스토어 배포를 통한 **서비스 출시**
+- 사용자 **피드백을 반영한 기능 개선**으로 서비스 완성도 향상
 ## 　
 
 ### [Project Master](https://github.com/hanjaek/Project_Master) (2024.05 ~ 2024.07)
@@ -88,8 +88,52 @@ and focus on building practical solutions by applying new technologies and optim
 
 #### Achievements
 - 교과목 우수 프로젝트 3팀 선정
-- 지도교수 추천으로 DevConf24 컨퍼런스 참가
+- 지도교수 추천으로 **DevConf24 컨퍼런스 참가**
 ## 
+
+<br>
+
+---
+
+<br>
+
+## Activities
+
+### 진로또래멘토링 (2025.09 ~ 2026.01)
+
+#### Contributions
+- 학과 후배 대상 진로 설계 및 학습 방향 멘토링
+
+#### Achievements
+- 50명 중 10명 **우수 멘토 선정**
+- **대표 1인**으로 성과 공유 발표 진행
+
+<br>
+<br>
+
+### 컴퓨팅사고와 SW활용 멘토링 (2025.03 ~ 2025.12)
+
+#### Contributions
+- Python 기초 및 문제 해결 학습 지도
+
+#### Achievements
+- 학습 참여 유도를 통해 교과목 **출석률 95% 달성**
+
+<br>
+<br>
+
+### [강화학습 연구실 RAILab 학부연구생](https://github.com/hanjaek/Reinforcement_Learning) (2024.12 ~ 2025.06)
+
+#### Contributions
+- 강화학습 이론 및 관련 논문 학습을 통해 연구 주제 이해
+- 주기적인 랩미팅을 통해 연구 방향 논의 및 실험 결과 공유
+- Human-in-the-Loop 기반 강화학습 구조 설계 및 실험 수행
+
+#### Achievements
+- 한국멀티미디어학회 학술대회 우수발표상 수상
+## 
+
+<br>
 
 ---
 
