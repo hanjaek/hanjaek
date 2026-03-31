@@ -71,6 +71,24 @@ and focus on building practical solutions by applying new technologies and optim
 - 사용자 **피드백을 반영한 기능 개선**으로 서비스 완성도 향상
 ## 　
 
+### [SAC-HIL-in-CarRacing-v3](https://github.com/hanjaek/SAC-HIL-in-CarRacing-v3) (2025.03 ~ 2025.05)
+> 강화학습 기반 자율주행에서 안정성과 효율성 향상을 위한 Human-in-the-Loop 도입
+
+#### Tech Stack
+![Python](https://img.shields.io/badge/Python-f5f5f5?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-f5f5f5?style=flat)
+![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-f5f5f5?style=flat)
+![OpenAI Gym](https://img.shields.io/badge/Gym-f5f5f5?style=flat)
+
+#### Key Contributions
+- 강화학습 환경에서 초기 학습 불안정 문제 분석
+- Human-in-the-Loop 구조 설계 및 구현
+- 행동 가중치 조합 방식으로 초기 안정성 개선
+
+#### Achievements
+- 한국멀티미디어학회 우수발표상 수상
+## 
+
 ### [Project Master](https://github.com/hanjaek/Project_Master) (2024.05 ~ 2024.07)
 > 역할 기반 평점 관리 및 프로젝트 매칭 플랫폼 개발
 
