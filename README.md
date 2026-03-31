@@ -67,7 +67,7 @@ and focus on building practical solutions by applying new technologies and optim
 - 유효성 검증 및 예외 처리 로직 적용으로 서비스 안정성 개선
 
 #### Achievements
-- 앱 스토어 및 플레이스토어 배포를 통한 **서비스 출시** (현재 서비스 종료)
+- 앱 스토어 및 플레이스토어 배포를 통한 **서비스 출시** (2025.03 ~ 2025.11)
 - 사용자 **피드백을 반영한 기능 개선**으로 서비스 완성도 향상
 ## 　
 
